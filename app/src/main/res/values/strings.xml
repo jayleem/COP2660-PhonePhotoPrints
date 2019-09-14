@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Phone Photo Prints</string>
+    <string name="topLabel">Phone Photo Prints</string>
+    <string name="numPrints">Number of Prints</string>
+    <string name="radioBtnOpt1">4x6 (19 cents)</string>
+    <string name="radioBtnOpt2">5x7 (49 cents)</string>
+    <string name="radioBtnOpt3">8x10 (79 cents)</string>
+    <string name="orderBtn">ORDER PRINTS</string>
+</resources>
